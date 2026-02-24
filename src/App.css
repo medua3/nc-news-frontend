@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.articleCard{
+  border: 1px solid hwb(0 0% 97%);
+  grid: 0ch;
+}
